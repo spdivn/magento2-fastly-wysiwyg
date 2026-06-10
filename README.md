@@ -1,4 +1,4 @@
-# Spdivn_FastlyWysiwyg — Magento 2 Fastly Image Optimization for WYSIWYG
+# Magento 2 Fastly Image Optimization for WYSIWYG
 
 A Magento 2 module that extends Fastly's native Image Optimization to images inserted via the WYSIWYG editor in CMS Pages, CMS Blocks, Widgets, and product/category descriptions.
 
