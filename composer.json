@@ -1,0 +1,23 @@
+{
+    "name": "spdivn/module-fastly-wysiwyg",
+    "version": "1.0.0",
+    "description": "Fastly Image Optimization parameters management for Magento2 WYSIWYG editor",
+    "type": "magento2-module",
+    "require": {
+        "php": "^8.1",
+        "magento/framework": "*",
+        "magento/module-config": "*",
+        "fastly/magento2": "*"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Spdivn\\FastlyWysiwyg\\": ""
+        }
+    }
+}
